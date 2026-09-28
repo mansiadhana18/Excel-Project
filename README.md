@@ -1,6 +1,16 @@
 # Excel-Project
 E-commerce Sales Analytics Dashboard | Excel | Data Cleaning | Pivot Tables | KPI Analysis | Business Intelligence
 
+### 🔗 Project Files
+
+[📥 Download Excel Project](https://docs.google.com/spreadsheets/d/1x8r5hX8tLLp1V0PuVLEUgsdZh0rGxC-k/edit?usp=drive_link&ouid=101639071468113243450&rtpof=true&sd=true)
+⚠️ **Important:** This project is designed and optimized for **Microsoft Excel**.
+> Some formulas, formatting, Pivot Tables, charts, slicers, and dashboard features
+> may not display correctly in Google Sheets.
+>
+> 📥 **For the best experience, please download the Excel file and open it in
+> Microsoft Excel.**
+
 # 🛒 Flipkart Sales & E-Commerce Data Analysis
 
 ## 📌 Project Overview
