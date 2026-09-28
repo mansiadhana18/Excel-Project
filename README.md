@@ -281,9 +281,3 @@ This project demonstrates the following Data Analyst skills:
 
 ---
 
-
-
-
-
-
-⭐ If you found this project useful, feel free to explore the repository and connect with me on GitHub.
