@@ -3,8 +3,7 @@ E-commerce Sales Analytics Dashboard | Excel | Data Cleaning | Pivot Tables | KP
 
 ### 🔗 Project Files
 
-[📥 Download Excel Project](https://docs.google.com/spreadsheets/d/1x8r5hX8tLLp1V0PuVLEUgsdZh0rGxC-k/edit?usp=drive_link&ouid=101639071468113243450&rtpof=true&sd=true)
-
+[📥 Download Excel Project]https://docs.google.com/spreadsheets/d/1x6y-b5VgMi9H4Mqw-fABfUAbRW0WYHoP/edit?usp=drive_link&ouid=101639071468113243450&rtpof=true&sd=true
 ⚠️ **Important:** This project is designed and optimized for **Microsoft Excel**.
  Some formulas, formatting, Pivot Tables, charts, slicers, and dashboard features may not display correctly in Google Sheets.
 
